@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="login_here">Login Here:</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="you_are_on_the_second_page">You are on the second page</string>
+    <string name="login_attempts">Login Attempts:</string>
+</resources>
